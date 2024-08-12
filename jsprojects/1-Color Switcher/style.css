@@ -1,0 +1,52 @@
+html{
+    margin: 0;
+}
+div{
+    display:block;
+    unicode-bidi:isolate;
+}
+body{
+    margin: 0;    
+    font-family: system-ui, sans-serif;    
+    color: black;    
+    background-color: white;
+
+}
+#h2{
+    align-content: center;
+}
+span{
+    display:block;
+    height: 100px;
+    width: 100px;
+}
+.canvas{
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+*{
+    box-sizing: border-box;
+}
+  
+.button{
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+  
+#grey{
+    background: grey;
+}
+  
+#red{
+    background: red;
+}
+#blue{
+    background: blue;
+}
+#yellow{
+    background: yellow;
+}
+  
